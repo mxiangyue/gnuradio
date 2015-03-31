@@ -1,7 +1,0 @@
-/*!
- * \defgroup block GNU Radio GR_OFDM_SHORT_PREAMBLE C++ Signal Processing Blocks
- * \brief All C++ blocks that can be used from the GR_OFDM_SHORT_PREAMBLE GNU Radio
- *        module are listed here or in the subcategories below.
- *
- */
-
